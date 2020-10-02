@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- build: Changes android package name from `io.sentry.RNSentryPackage` to `io.sentry.react.RNSentryPackage` (Breaking).
+
 ## 1.8.2
 
 - build: Bump @sentry/javascript dependencies to 5.24.2 #1091
